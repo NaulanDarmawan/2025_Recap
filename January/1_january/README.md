@@ -1,5 +1,5 @@
-<strong>Di Hari Pertama, 01 Januari 2025, Aku Naulan Darmawan Membuat Repository Ini.
-</strong>
+<h1><strong>Di Hari Pertama, 01 Januari 2025, Aku Naulan Darmawan Membuat Repository Ini.
+</strong></h1>
 <hr>
 <p>Sebelumnya Aku memang sudah belajar banyak bahasa pemrograman, diantaranya ada Dart, php, Javascript, Java, Python, Etc. Tetapi memang tidak pernah aku publikasikan, di tahun - tahun sebelumnya aku masih belum terpikirkan untuk merekap hasil perjalanan karirku, aku berharap dengan membuat repositori ini aku dapat semakin memahami apa saja yang aku pelajari dengan selalu membuat catatan disini. Dan juga sebagai pengingat & penyemangat agar aku menjadi orang yang bangga di masa depan kelak dengan melihat perkembangan repository ini</P>
 <hr>
@@ -7,6 +7,6 @@
 <hr>
 <p>Untuk Diriku Pada Hari Rabu, 31 Desember 2025. Kau Akan Bangga Melihat Hasil Konsistensimu Sampai Hari Ini, Kamu Keren Banget, Lihat Seberapa Subur Akun Github Mu Hari Ini!! Harapannya Bukan Hanya Akun Github Yang Subur, Tetapi Karirmu Juga Semakin Cemerlang Dan Melejit sebab engkau udah berjuang konsisten hingga hari ini !!</p>
 <hr>
-<strong>From You, Naulan Darmawan, 01 Januari 2025
-</strong> 
+<h1><strong>From You, Naulan Darmawan, 01 Januari 2025
+</strong></h1>
 <img src="fotosaye.jpeg" width="800" />
