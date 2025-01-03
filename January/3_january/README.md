@@ -1,0 +1,1 @@
+-- Isi Nanti Dulu Kalo Pas Pulang Hehe
