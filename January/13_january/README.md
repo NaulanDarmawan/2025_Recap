@@ -1,0 +1,1 @@
+Hari ini engga mengerjakan tugas sama sekali, totally most mager day in 2025. Ga boleh gini terus, katanya mau berubah ya kan ? 
