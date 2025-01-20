@@ -1,0 +1,1 @@
+berhubung beliau habis mengalami kejadian yang tak mengenakkan jadi diisi nya besok ya jangan lupa diganti
